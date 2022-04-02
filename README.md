@@ -15,13 +15,19 @@
 
 2.2  ![WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv)
 
-2.3  ![WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png)
+2.3  WeatherPy_vacation_map.png
+
+![](Vacation_Search/WeatherPy_vacation_map.png)
 
 ### 3. Creating a Travel Itinerary Map (Folder: Vacation_Itinerary)
 
 
 3.1  ![Vacation_Itinerary.ipynb](Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
-3.2  ![WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
+3.2  WeatherPy_travel_map.png
 
-3.3  ![WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+3.3  WeatherPy_travel_map_markers.png
+
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
